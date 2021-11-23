@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-
+// LUCAS NARFGREN SUT21
 namespace OOPLabb5
 {
     class Check<T>
