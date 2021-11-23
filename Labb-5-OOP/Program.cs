@@ -11,13 +11,13 @@ namespace OOPLabb5
         {
             if (n1.Equals(n2))
             {
-                return true;
                 Console.WriteLine("True");
+                return true;
             }
             else
             {
-                return false;
                 Console.WriteLine("False");
+                return false; 
             }
         }
     }
