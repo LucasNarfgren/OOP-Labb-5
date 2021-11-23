@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 
-namespace Labb_5_OOP
+namespace OOPLabb5
 {
     class Check<T>
     {
@@ -11,13 +11,13 @@ namespace Labb_5_OOP
         {
             if (n1.Equals(n2))
             {
-                Console.WriteLine("True");
                 return true;
+                Console.WriteLine("True");
             }
             else
             {
-                Console.WriteLine("False");
                 return false;
+                Console.WriteLine("False");
             }
         }
     }
